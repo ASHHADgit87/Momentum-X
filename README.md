@@ -66,7 +66,3 @@ Momentum X follows the **Software as a Service (SaaS)** model by providing centr
 
 - **Muhammad Ashhadullah Zaheer**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-ashhadullah-zaheer-41194a340/  
-
----
-
-MomentumX delivers a polished, competitive, and immersive 3D racing experience directly in the browser — built for speed, realism, and expansion.
