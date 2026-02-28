@@ -47,16 +47,6 @@ Momentum X follows the **Software as a Service (SaaS)** model by providing centr
 
 ---
 
-## 🔑 Key Functionality
-
-- Competitive multi-car racing  
-- Smooth AI interpolation for realistic movement  
-- Camera rotation during turns  
-- Local best lap tracking  
-- Professional, engaging racing dashboard  
-- High-difficulty immersive gameplay  
-
----
 
 ## 🛠️ Tech Stack
 
