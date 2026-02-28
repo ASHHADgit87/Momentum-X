@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+# MomentumX
 
-## Project info
+**MomentumX** is a cutting-edge, high-speed 3D browser racing game designed to deliver an immersive and competitive arcade racing experience inspired by Need for Speed. Built entirely with React.js and Three.js, it features realistic environments, extremely fast cars, dynamic day/night themes, and professional UI — all running fully on the frontend.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🏛️ Architecture
 
-There are several ways of editing your application.
+**MomentumX follows a Modular Frontend Game Architecture**, ensuring clean separation between rendering, physics, AI logic, UI systems, and audio management for scalability and maintainability.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## ☁️ SaaS 
 
-Changes made via Lovable will be committed automatically to this repo.
+Momentum X follows the **Software as a Service (SaaS)** model by providing centrally hosted functionality that users access Link without local installation.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ✨ Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🛣️ 3D Racing Environment
+- Long black concrete textured track    
+- Barriers, lane markings, and detailed surroundings  
+- Rivers, cliffs, farms, buildings, trees, banners  
+- Dynamic Day & Night themes with distinct lighting and ambience  
 
-Follow these steps:
+### 🚗 Player & AI System
+- Full car selection interface  
+- Extremely fast racing mechanics  
+- Smooth acceleration and deceleration physics  
+- Competitive AI with collision avoidance  
+- Third-person dynamic camera follow  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🎮 Game Mechanics
+- Lap counter and live race timer  
+- Restart and pause controls  
+- Obstacles and cones for added difficulty  
+- Clean trophy animation at race completion  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🎧 Sound & Atmosphere
+- Engine acceleration sounds  
+- Collision effects  
+- UI interaction sounds  
+- Background racing music  
+- Day ambience (wind, birds, crowd)  
+- Night ambience (city atmosphere, calm streets)  
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
-**Edit a file directly in GitHub**
+## 🛠️ Tech Stack
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- **Frontend:** React.js  
+- **3D Engine:** Three.js   
+- **State Management:** React Hooks  
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🚀 Getting Started
 
-## What technologies are used for this project?
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 👨‍💻 Creator & Developer
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- **Muhammad Ashhadullah Zaheer**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-ashhadullah-zaheer-41194a340/  
