@@ -1,4 +1,4 @@
-# MomentumX  (BIG SCREEN ONLY CURRENTLY)
+# MomentumX  (BIG SCREEN ONLY)
 
 **MomentumX** is a cutting-edge, high-speed 3D browser racing game designed to deliver an immersive and competitive arcade racing experience inspired by Need for Speed. Built entirely with React.js and Three.js, it features realistic environments, extremely fast cars, dynamic day/night themes, and professional UI — all running fully on the frontend.
 
