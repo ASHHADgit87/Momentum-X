@@ -1,68 +1,115 @@
-# MomentumX  (BIG SCREEN ONLY)
+# MomentumX (Big Screen Only)
 
-**MomentumX** is a cutting-edge, high-speed 3D browser racing game designed to deliver an immersive and competitive arcade racing experience inspired by Need for Speed. Built entirely with React.js and Three.js, it features realistic environments, extremely fast cars, dynamic day/night themes, and professional UI — all running fully on the frontend.
-
----
-
-## 🏛️ Architecture
-
-**MomentumX follows a Modular Frontend Game Architecture**, ensuring clean separation between rendering, physics, AI logic, UI systems, and audio management for scalability and maintainability.
+**MomentumX** is a high-speed **3D browser racing game** inspired by classic arcade racing titles. Built entirely with **React.js** and **Three.js**, it delivers immersive gameplay featuring realistic environments, fast-paced racing mechanics, dynamic day and night themes, and a modern user interface—all running directly in the browser without additional software.
 
 ---
 
-## ☁️ SaaS 
+# Architecture
 
-Momentum X follows the **Software as a Service (SaaS)** model by providing centrally hosted functionality that users access Link without local installation.
+MomentumX follows a **Modular Frontend Game Architecture**, ensuring a clean separation between rendering, game mechanics, UI components, AI behavior, audio management, and state handling.
 
----
-
-## ✨ Features
-
-### 🛣️ 3D Racing Environment
-- Long black concrete textured track    
-- Barriers, lane markings, and detailed surroundings  
-- Rivers, cliffs, farms, buildings, trees, banners  
-- Dynamic Day & Night themes with distinct lighting and ambience  
-
-### 🚗 Player & AI System
-- Full car selection interface  
-- Extremely fast racing mechanics  
-- Smooth acceleration and deceleration physics  
-- Competitive AI with collision avoidance  
-- Third-person dynamic camera follow  
-
-### 🎮 Game Mechanics
-- Lap counter and live race timer  
-- Restart and pause controls  
-- Obstacles and cones for added difficulty  
-- Clean trophy animation at race completion  
-
-### 🎧 Sound & Atmosphere
-- Engine acceleration sounds  
-- Collision effects  
-- UI interaction sounds  
-- Background racing music  
-- Day ambience (wind, birds, crowd)  
-- Night ambience (city atmosphere, calm streets)  
+| Layer | Responsibility |
+|---|---|
+| Rendering Engine | Three.js scene, lighting, camera, and environment |
+| Game Logic | Racing mechanics, laps, timer, and controls |
+| AI System | Opponent movement and collision avoidance |
+| UI Layer | Menus, HUD, race information, and animations |
+| Audio System | Engine sounds, ambience, and sound effects |
 
 ---
 
+# SaaS
 
-## 🛠️ Tech Stack
-
-- **Frontend:** React.js  
-- **3D Engine:** Three.js   
-- **State Management:** React Hooks  
+MomentumX follows the **Software as a Service (SaaS)** model by providing a browser-based gaming experience that users can access online without local installation.
 
 ---
 
-## 🚀 Getting Started
+# Features
+
+## 3D Racing Environment
+
+| Feature | Description |
+|---|---|
+| Racing Track | Long textured racing track with lane markings and barriers |
+| Detailed Environment | Rivers, cliffs, farms, buildings, trees, banners, and scenery |
+| Dynamic Themes | Day and Night environments with unique lighting and atmosphere |
+| Immersive Experience | Modern visuals optimized for large-screen gameplay |
+
+---
+
+## Player & AI System
+
+| Feature | Description |
+|---|---|
+| Car Selection | Choose from available racing vehicles |
+| High-Speed Racing | Smooth acceleration and deceleration mechanics |
+| AI Opponents | Competitive AI with collision avoidance |
+| Dynamic Camera | Third-person camera that follows the player's vehicle |
+
+---
+
+## Game Mechanics
+
+| Feature | Description |
+|---|---|
+| Lap Counter | Track race progress through completed laps |
+| Live Timer | Real-time race timing |
+| Game Controls | Pause and restart functionality |
+| Obstacles | Cones and track objects increase challenge |
+| Race Completion | Trophy animation after finishing the race |
+
+---
+
+## Audio Experience
+
+| Feature | Description |
+|---|---|
+| Engine Sounds | Dynamic acceleration audio |
+| Collision Effects | Sound effects for impacts |
+| UI Sounds | Audio feedback for interface interactions |
+| Background Music | Racing-themed soundtrack |
+| Ambient Audio | Different environmental sounds for day and night modes |
+
+---
+
+# Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| 3D Graphics | Three.js |
+| State Management | React Hooks |
+
+---
+
+# Gameplay Flow
+
+```text
+Start Game
+      ↓
+Select Car
+      ↓
+Begin Race
+      ↓
+Complete Laps
+      ↓
+Avoid Obstacles & AI
+      ↓
+Finish Race
+      ↓
+View Trophy Animation
+```
+
+---
+
+# Live Demo
 
 https://momentum-x-gamma.vercel.app/
 
 ---
 
-## 👨‍💻 Creator & Developer
+# Creator & Developer
 
-- **Muhammad Ashhadullah Zaheer**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-ashhadullah-zaheer-41194a340/  
+**Muhammad Ashhadullah Zaheer**
+
+LinkedIn: https://www.linkedin.com/in/muhammad-ashhadullah-zaheer-41194a340/
